@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coloursnft-api/static/css/main.633338f7.css",
+    "main.js": "/coloursnft-api/static/js/main.d6171a85.js",
+    "static/js/787.c43d8b77.chunk.js": "/coloursnft-api/static/js/787.c43d8b77.chunk.js",
+    "index.html": "/coloursnft-api/index.html",
+    "main.633338f7.css.map": "/coloursnft-api/static/css/main.633338f7.css.map",
+    "main.d6171a85.js.map": "/coloursnft-api/static/js/main.d6171a85.js.map",
+    "787.c43d8b77.chunk.js.map": "/coloursnft-api/static/js/787.c43d8b77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.633338f7.css",
+    "static/js/main.d6171a85.js"
+  ]
+}
